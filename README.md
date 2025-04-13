@@ -1,5 +1,4 @@
-# 🎓 Will They Get the Job?  
-**Tackling Imbalanced Data with Ensemble and Skew Kernel Methods**
+# 🎓 Will They Get the Job?  **Tackling Imbalanced Data with Ensemble and Skew Kernel Methods**
 
 This project presents my solution to a classification problem that involves predicting whether a student will be placed in a job based on their academic and demographic profile. The dataset is highly **imbalanced** (roughly a 5:1 ratio of unplaced to placed students), which required creative modeling approaches beyond standard classifiers.
 
