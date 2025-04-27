@@ -1,0 +1,301 @@
+Gender,Percent_SSC,Percent_HSC,Percent_Degree,Experience_Yrs,Board_SSC,Board_HSC,Stream_HSC,Course_Degree,Specialization_MBA,Entrance_Test
+1,1.167704474,1.872656706,-0.678901155,-0.653321719,Others,Others,Commerce,Management,Marketing & IB,CAT
+1,1.745846387,-1.20837313,-1.403449682,-0.653321719,Others,Others,Science,Engineering,Marketing & HR,CAT
+0,-1.695474525,-0.120950835,-0.310976167,-0.653321719,CBSE,CBSE,Commerce,Commerce,Marketing & Finance,MAT
+1,-1.302180706,-0.845899032,0.731268681,1.04531475,CBSE,CBSE,Science,Others,Marketing & HR,MAT
+0,-0.712239979,-0.21156936,-0.524448003,-0.653321719,Others,Others,Science,Engineering,Marketing & Finance,MAT
+1,1.008420477,-0.347497147,0.103410339,1.04531475,ICSE,ISC,Science,Engineering,Marketing & Finance,MAT
+0,1.795008114,-0.465301229,0.153639006,-0.653321719,Others,Others,Science,Science,Marketing & Finance,MAT
+1,2.02115206,0.422760312,0.756383014,-0.653321719,CBSE,CBSE,Science,Engineering,Marketing & HR,MAT
+1,0.365385084,1.057089985,0.103410339,-0.653321719,Others,Others,Commerce,Management,Marketing & Finance,MAT
+1,-1.726938031,-0.997231968,-1.419773999,-0.653321719,Others,Others,Commerce,Management,Marketing & HR,MAT
+0,0.172671113,0.090190327,0.757638731,-0.653321719,ICSE,Others,Science,Engineering,Marketing & HR,MAT
+1,0.831438259,2.026708198,-0.273304666,1.04531475,ICSE,Others,Commerce,Commerce,Marketing & Finance,MAT
+1,1.214899732,1.328945559,1.68561336,-0.653321719,Others,Others,Commerce,Commerce,Marketing & Finance,MAT
+1,-0.31894616,-0.120950835,-0.524448003,1.04531475,Others,Others,Commerce,Commerce,Marketing & HR,MAT
+0,0.95925875,-0.574043458,0.856840349,-0.653321719,CBSE,CBSE,Science,Science,Marketing & HR,MAT
+1,-0.220622706,1.238327034,0.354553676,-0.653321719,ICSE,ISC,Commerce,Management,Marketing & Finance,MAT
+1,0.369318022,-0.845899032,-0.147732998,1.04531475,Others,Others,Commerce,Commerce,Marketing & Finance,XAT
+1,1.533467725,2.038488606,1.635384693,1.04531475,Others,Others,Commerce,Management,Marketing & Finance,MAT
+1,1.155905659,0.440884017,-0.147732998,-0.653321719,CBSE,CBSE,Commerce,Commerce,Marketing & HR,MAT
+1,1.155905659,1.147708509,0.982412017,1.04531475,Others,Others,Commerce,Commerce,Marketing & Finance,MAT
+0,-1.490961739,-1.434919442,-1.326850964,1.04531475,Others,Others,Commerce,Commerce,Marketing & HR,PGCET
+1,-0.31894616,-0.845899032,0.982412017,-0.653321719,Others,CBSE,Commerce,Commerce,Marketing & HR,MAT
+1,-1.498827616,-1.027136081,-1.026734677,1.04531475,ICSE,CBSE,Commerce,Management,Marketing & HR,MAT
+0,0.11367704,0.694615886,-0.650019671,-0.653321719,Others,Others,Commerce,Management,Marketing & IB,MAT
+1,-0.023975796,0.060286214,1.610270359,-0.653321719,ICSE,ISC,Science,Computer Applications,Marketing & HR,K-MAT
+1,1.090028945,0.996375573,1.67054476,1.04531475,ICSE,Others,Science,Computer Applications,Marketing & Finance,MAT
+1,-0.31894616,-0.392806409,-0.02216133,1.04531475,Others,Others,Science,Computer Applications,Marketing & HR,MAT
+1,-1.160594932,-1.148564904,-0.650019671,-0.653321719,Others,Others,Commerce,Commerce,Marketing & Finance,MAT
+0,0.910097023,-0.574043458,-0.524448003,-0.653321719,CBSE,CBSE,Science,Management,Marketing & IB,MAT
+1,-1.007210343,-1.027136081,0.354553676,-0.653321719,Others,Others,Arts,Management,Marketing & Finance,MAT
+0,0.664288386,-1.38961018,-1.905736355,1.04531475,Others,Others,Commerce,Commerce,Marketing & Finance,MAT
+1,-0.908886888,1.238327034,0.028067338,-0.653321719,ICSE,ISC,Commerce,Management,Marketing & HR,MAT
+1,-0.810563433,-0.392806409,-0.235633166,-0.653321719,Others,Others,Commerce,Management,Marketing & Finance,MAT
+1,-0.122299251,0.96647146,0.982412017,-0.653321719,CBSE,CBSE,Commerce,Commerce,Marketing & HR,MAT
+1,-1.498827616,0.422760312,-2.533594697,-0.653321719,CBSE,CBSE,Commerce,Arts,Marketing & HR,MAT
+1,-0.220622706,0.785234411,1.233555354,-0.653321719,ICSE,ISC,Commerce,Commerce,Marketing & Finance,MAT
+1,1.54526654,-1.752084278,3.368273716,-0.653321719,Others,Others,Science,Computer Applications,Marketing & HR,MAT
+1,-0.122299251,0.332141788,-0.147732998,-0.653321719,Others,Others,Science,Engineering,Marketing & HR,MAT
+0,0.467641477,1.147708509,-1.152306345,-0.653321719,ICSE,ISC,Commerce,Commerce,Marketing & Finance,MAT
+0,-0.368107887,-0.61935272,-0.913720175,-0.653321719,ICSE,ISC,Commerce,Management,Marketing & Finance,MAT
+1,0.467641477,0.332141788,-0.02216133,1.04531475,ICSE,ISC,Science,Engineering,Marketing & Finance,MAT
+0,1.155905659,0.513378837,1.233555354,-0.653321719,CBSE,CBSE,Science,Computer Applications,Marketing & HR,MAT
+1,0.762611841,-1.298991655,0.731268681,1.04531475,CBSE,Others,Science,Computer Applications,Marketing & HR,CAT
+1,1.254229114,0.513378837,-0.650019671,1.04531475,Others,CBSE,Science,Engineering,Marketing & HR,MAT
+1,-0.495928378,-0.719033098,-0.423990668,1.04531475,CBSE,CBSE,Commerce,Management,Marketing & Finance,MAT
+0,-0.712239979,-0.21156936,-0.02216133,-0.653321719,Others,Others,Commerce,Management,Marketing & HR,MAT
+0,-0.122299251,0.513378837,-0.398876335,-0.653321719,CBSE,CBSE,Commerce,Commerce,Marketing & Finance,MAT
+0,0.369318022,-1.20837313,-0.398876335,1.04531475,Others,Others,Science,Management,Marketing & HR,MAT
+0,1.352552569,-1.027136081,-0.77559134,-0.653321719,Others,Others,Science,Engineering,Marketing & Finance,MAT
+1,0.95925875,1.238327034,1.107983686,2.743951219,ICSE,ISC,Commerce,Others,Marketing & HR,MAT
+1,-0.220622706,-1.933321327,0.103410339,-0.653321719,Others,Others,Science,Management,Marketing & IB,MAT
+1,-1.16452787,-0.918393852,-1.026734677,-0.653321719,ICSE,CBSE,Commerce,Computer Applications,Marketing & Finance,MAT
+1,0.369318022,-0.302187884,-1.277878013,-0.653321719,Others,Others,Commerce,Commerce,Marketing & HR,MAT
+1,-1.744636252,-0.483424934,-0.963948842,1.04531475,Others,Others,Arts,Arts,Marketing & Finance,MAT
+1,1.647522933,-1.117754606,1.161979503,1.04531475,ICSE,Others,Science,Science,Marketing & Finance,MAT
+1,-1.105533797,-0.936517557,-1.026734677,1.04531475,Others,Others,Commerce,Management,Marketing & HR,MAT
+1,-0.613916524,0.37745105,0.856840349,-0.653321719,CBSE,CBSE,Commerce,Management,Marketing & HR,MAT
+1,-0.417269615,-0.936517557,0.856840349,-0.653321719,CBSE,CBSE,Commerce,Management,Marketing & HR,MAT
+1,-1.007210343,0.513378837,-0.77559134,-0.653321719,CBSE,CBSE,Commerce,Commerce,Marketing & HR,MAT
+1,0.860935295,0.422760312,0.228982007,1.04531475,CBSE,CBSE,Science,Management,Marketing & HR,MAT
+1,-1.105533797,-0.936517557,-0.398876335,-0.653321719,Others,Others,Science,Management,Marketing & HR,MAT
+1,0.074347658,1.238327034,0.982412017,-0.653321719,Others,Others,Commerce,Management,Marketing & HR,MAT
+1,-0.613916524,-0.21156936,0.429896677,4.442587688,ICSE,Others,Science,Engineering,Marketing & HR,MAT
+1,0.074347658,1.057089985,-0.273304666,1.04531475,Others,Others,Commerce,Management,Marketing & Finance,MAT
+0,-1.302180706,-1.045259786,-0.333579067,-0.653321719,Others,Others,Commerce,Management,Marketing & Finance,MAT
+1,1.352552569,-0.483424934,1.107983686,1.04531475,Others,Others,Science,Engineering,Marketing & Finance,MAT
+0,0.95925875,-0.755280507,-1.152306345,-0.653321719,Others,Others,Commerce,Management,Marketing & Finance,K-MAT
+1,-0.869557506,0.226118114,-1.727424586,-0.653321719,Others,Others,Commerce,Commerce,Marketing & Finance,MAT
+1,0.475507353,0.135499589,1.551251675,-0.653321719,Others,Others,Commerce,Management,Marketing & Finance,MAT
+1,0.467641477,2.688223428,1.861413696,2.743951219,ICSE,Others,Commerce,Commerce,Marketing & Finance,MAT
+1,-0.303214407,0.286832526,-0.606069588,-0.653321719,ICSE,ISC,Commerce,Commerce,Marketing & Finance,MAT
+1,-2.088768344,-1.20837313,-2.156879692,-0.653321719,CBSE,CBSE,Commerce,Commerce,Marketing & Finance,MAT
+1,0.066481782,-1.072445343,0.136058973,-0.653321719,Others,Others,Science,Management,Marketing & HR,K-MAT
+1,-1.302180706,-1.20837313,-0.02216133,1.04531475,CBSE,Others,Science,Management,Marketing & HR,MAT
+1,-0.908886888,1.328945559,0.354553676,-0.653321719,CBSE,CBSE,Commerce,Management,Marketing & Finance,MAT
+0,0.457809131,-1.38961018,-0.77559134,1.04531475,Others,Others,Science,Arts,Marketing & Finance,MAT
+0,0.664288386,0.086565586,0.605697012,-0.653321719,Others,Others,Commerce,Management,Marketing & Finance,MAT
+1,-0.515593069,0.96647146,0.731268681,1.04531475,CBSE,CBSE,Commerce,Commerce,Marketing & Finance,MAT
+1,-0.613916524,1.927027821,1.635384693,-0.653321719,ICSE,Others,Commerce,Management,Marketing & Finance,MAT
+1,0.605294313,0.984595165,0.228982007,-0.653321719,Others,Others,Commerce,Management,Marketing & HR,MAT
+0,-1.007210343,0.187152149,-0.850934341,-0.653321719,Others,Others,Commerce,Commerce,Marketing & Finance,MAT
+0,0.172671113,0.603997362,0.354553676,-0.653321719,ICSE,Others,Commerce,Commerce,Marketing & HR,K-MAT
+1,1.450876023,0.422760312,-0.02216133,-0.653321719,Others,Others,Science,Management,Marketing & HR,MAT
+1,-0.436934306,0.679210737,0.029323054,-0.653321719,Others,Others,Commerce,Commerce,Marketing & Finance,CAT
+0,-0.924618641,-0.936517557,-0.650019671,1.04531475,ICSE,ISC,Arts,Management,Marketing & HR,PGCET
+1,0.270994568,1.419564083,0.982412017,-0.653321719,Others,Others,Commerce,Commerce,Marketing & Finance,MAT
+1,-1.695474525,-0.936517557,-0.524448003,-0.653321719,Others,Others,Science,Management,Marketing & HR,MAT
+1,-0.613916524,-0.392806409,-0.02216133,1.04531475,ICSE,ISC,Commerce,Management,Marketing & HR,MAT
+1,0.860935295,1.691419657,-1.52902135,-0.653321719,ICSE,ISC,Arts,Arts,Marketing & Finance,MAT
+1,1.419412518,-0.075641573,-0.273304666,-0.653321719,Others,Others,Science,Engineering,Marketing & HR,MAT
+0,-1.105533797,-0.574043458,-0.02216133,-0.653321719,ICSE,Others,Science,Management,Marketing & HR,MAT
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+0,,,,,,,,,,
+0,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+0,,,,,,,,,,
+0,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+0,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+0,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+0,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+1,,,,,,,,,,
+0,,,,,,,,,,
