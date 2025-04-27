@@ -1,6 +1,8 @@
 # Will They Get the Job?  **Tackling Imbalanced Data with Ensemble and Skew Kernel Methods**
 
-This project presents my solution to a classification problem that involves predicting whether a student will be placed in a job based on their academic and demographic profile. The dataset is highly **imbalanced** (roughly a 5:1 ratio of unplaced to placed students), which required creative modeling approaches beyond standard classifiers.
+This repository presents my winning solution to the [Placement Puzzle: Crack the Hiring Code](https://www.kaggle.com/competitions/placement-puzzle-crack-the-hiring-code/overview). The task was a binary classification problem, where the goal was to predict whether a student would be placed in a job based on their academic and demographic profile. The dataset was highly imbalanced (approximately a 5:1 ratio of placed to unplaced students), which required creative modeling strategies beyond standard classifiers to achieve top performance.
+
+You can check the [public leaderboard here](https://www.kaggle.com/competitions/placement-puzzle-crack-the-hiring-code/leaderboard?tab=public).
 
 ---
 
